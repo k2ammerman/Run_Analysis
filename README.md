@@ -11,14 +11,21 @@ This run_analysis.R script requires the script user to have already extracted th
 
 Project source Files used by this run_analysis.R include:
 
-"./data/test/subject_test.txt" - Each row identifies the subject who performed the activity for each window sample.
-"./data/test/X_test.txt" - Test set
-"./data/test/Y_test.txt" - Test class labels
-"./data/train/subject_train.txt" - Each row identifies the subject who performed the activity for each window sample.
-"./data/train/X_train.txt" - Train set
-"./data/train/Y_train.txt" - Train class labels
-"./data/features.txt" - List of all features.
-"./data/activity_labels.txt" - Links the class labels with their activity name.
+>"./data/test/subject_test.txt" - Each row identifies the subject who performed the activity for each window sample.
+>
+>"./data/test/X_test.txt" - Test set
+>
+>"./data/test/Y_test.txt" - Test class labels
+>
+>"./data/train/subject_train.txt" - Each row identifies the subject who performed the activity for each window sample.
+>
+>"./data/train/X_train.txt" - Train set
+>
+>"./data/train/Y_train.txt" - Train class labels
+>
+>"./data/features.txt" - List of all features.
+>
+>"./data/activity_labels.txt" - Links the class labels with their activity name.
 
 
 A description of the source data data for this project is available from the site where the source data was obtained.
